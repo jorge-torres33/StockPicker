@@ -1,8 +1,7 @@
 **Project Title:** StockPicker
 
 **Description:**
-
-This project's main purpose is to select from a list of provided stocks based on the amount to invest and the specified timeframe for the rate of return for the stock.
+This project was developed for my CIIC4025 (Analysis and Design of Algorithms) course at the University of Puerto Rico at Mayagüez. Its main purpose is to select from a list of provided stocks based on the amount to invest and the specified timeframe for the rate of return for the stock.
 
 **Usecase**
 
@@ -27,7 +26,7 @@ A person has X amount of money to invest in a stock and he/she wants to maximize
 
 3. **Timeframe:** You define the desired rate of return timeframe. Valid options include "1m" (1 month), "6m" (6 months), "1y" (1 year), and "5y" (5 years).
 
-## Usage
+**Usage**
 
 You can run the StockPicker program with a command like this:
 
@@ -40,6 +39,8 @@ This command instructs the program to:
 - Use the stock data from the "stocks.csv" file.
 - Inform the program that you have a budget of $300 for stock investments.
 - Specify that you want to base your stock selection on the one-month rate of return.
+
+**Output**
 
 The program will then provide an output in the following format:
 
