@@ -1,9 +1,10 @@
 **Project Title:** StockPicker
 
 **Description:**
+
 This project was developed for my CIIC4025 (Analysis and Design of Algorithms) course at the University of Puerto Rico at Mayagüez. Its main purpose is to select from a list of provided stocks based on the amount to invest and the specified timeframe for the rate of return for the stock.
 
-**Usecase**
+**Usecase:**
 
 A person has X amount of money to invest in a stock and he/she wants to maximize his/her investment based on stock historical data for a specific timeframe.  Maybe the person wants to maximize based on one month of historical projection or five months, a year, or 5 years. Since you want to have a diversified portfolio you can only pick 1 stock for each company, but if you still have money after picking the best stock for your timeframe your program can pick a fraction of the next stock. 
 
